@@ -1,3 +1,7 @@
+# This programme is the base of the project
+# It takes a single csv or txt file and export into individual txt files
+# I will add more options later
+
 import jieba
 import jieba.posseg as pseg
 import csv
