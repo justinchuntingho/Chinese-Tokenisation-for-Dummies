@@ -7,7 +7,7 @@ import jieba.posseg as pseg
 import csv
 
 jieba.set_dictionary('dict.txt.big') # Dictionary
-jieba.load_userdict('userdict.txt') # Self-defined dictionary
+jieba.load_userdict('userdict.txt') # Self-defined dictionary, can be ignored, you can either put an empty text file or comment out this line
 
 sourcefile = 'corpus.txt' # The corpus, one document per line
 prefix = 'result' # The prefix of the exported files
