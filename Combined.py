@@ -1,4 +1,4 @@
-# Written by Justin Chun-ting Ho (Justin.Ho@ed.ac.uk)
+# Written by Justin Chun-ting Ho (Github: justinchuntingho; Email: Justin.Ho@ed.ac.uk)
 # All-in-one wrapper for Chinese Tokenisation with the Jieba, Stanford PKU and Stanford Chinese Tree Bank packages.
 # Last updated: 19 July 2017.
 
